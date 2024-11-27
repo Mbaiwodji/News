@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="article_photo">Article\'s photo</string>
+    <string name="news_app">News App</string>
+    <string name="read">Read</string>
+    <string name="back_button">Back</string>
+    <string name="detail">Detail</string>
+    <string name="no_data_available">No data available in this language. Please set your phone\'s language to \"English (United States)\" to ensure you receive the data</string>
+</resources>

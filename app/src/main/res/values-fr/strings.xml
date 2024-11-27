@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News</string>
+    <string name="loading_failed">Echec de chargement</string>
+    <string name="retry">Réessayer</string>
+    <string name="loading">Chargement</string>
+    <string name="article_photo">Photo de l\'article</string>
+    <string name="news_app">News App</string>
+    <string name="read">Lire</string>
+    <string name="back_button">Retour</string>
+    <string name="detail">Detail</string>
+    <string name="no_data_available">Aucune donnée disponible dans cette langue. Veuillez configurer la langue de votre téléphone sur \"English (United States)\" pour être sûr(e) d\'avoir les données.\n</string>
+</resources>
