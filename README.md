@@ -66,6 +66,11 @@ J'ai opté pour Coil pour le chargement d'images, pour la simple raison qu'il es
 De plus, il est conçu spécifiquement pour Kotlin et Jetpack Compose.  Aussi, Coil gère automatiquement les cycles de vie et optimise le chargement, 
 ce qui le rend encore plus interessant
 
+Gestion des clés API
+-------
+Pour des raisons de sécurité, il est déconseillé de coder en dur les clés API dans le code source, comme j'ai fait actuellement dans ce mini-projet. 
+Une approche plus sécurisée consiste à utiliser des outils comme Secret Manager ou à stocker les clés dans des variables d'environnement.
+
 
 Gestion de version avec Git et GitHub
 ---------------------
@@ -92,4 +97,5 @@ Problèmes identifiés mais non traités :
 - Mise en œuvre de la pagination
 - Mode hors ligne
 - Options de recherche
+- Stocker API Key dans Secret Manager ou variable d'environnement.
 
